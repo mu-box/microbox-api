@@ -6,7 +6,7 @@ Sets up a simple api with logging of requests and a single route. More routes ma
 
 | path | description | payload | response |
 | --- | --- | --- | --- |
-| `/ping` | a simple ping long route | nil | `pong` |
+| `/ping` | a simple ping pong route | nil | `pong` |
 
 
 ### Example usage
