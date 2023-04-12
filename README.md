@@ -1,4 +1,4 @@
-# Nanobox Api
+# Microbox Api
 
 Sets up a simple api with logging of requests and a single route. More routes may be added later.
 
@@ -17,7 +17,7 @@ package main
 
 import (
   "github.com/jcelliott/lumber"
-  "github.com/pagodabox/na-api"
+  "github.com/mu-box/microbox-api"
 )
 
 func main() {
@@ -35,7 +35,7 @@ This is one of the routes file, there can be as many as needed
 package example
 
 import (
-  "github.com/pagodabox/na-api"
+  "github.com/mu-box/microbox-api"
   "net/http"
 )
 
